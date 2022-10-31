@@ -1,0 +1,9 @@
+[submodule "i386_src"]
+	path = i386_src
+	url = git@github.com:xuyq19/linux-0.11.git
+[submodule "tools/uboot"]
+	path = tools/uboot
+	url = git@github.com:u-boot/u-boot.git
+[submodule "tools/opensbi"]
+	path = tools/opensbi
+	url = git@github.com:riscv-software-src/opensbi.git
